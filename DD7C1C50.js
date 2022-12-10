@@ -1,5 +1,5 @@
 function myFunction() { 
-    document.getElementById("mp4").src = "https://drive.google.com/uc?id=176AqN1jn8M2xqlabO2HncpTkdDzVnlkX&export=download";
+    document.getElementById("mp4").src = "https://drive.google.com/uc?id=1wEMwjmZXYUAKS7U9R_OqcKtTmtYUxmpO&export=download";
     document.getElementById("video").load();
     document.getElementById("video").poster = "https://sites.google.com/site/zfirelight/1.png";
     document.getElementById("video").addEventListener('ended',myFunction2,false);
